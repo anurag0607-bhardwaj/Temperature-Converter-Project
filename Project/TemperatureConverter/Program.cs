@@ -1,10 +1,5 @@
 ﻿/* Temperature Converter
- * Hemachandra & Sam
- * 7/9/19
- *
- * TODO:
- * - Interface
- */
+
 
 using System;
 
